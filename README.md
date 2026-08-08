@@ -1,4 +1,4 @@
-🌾 Farmer Friend
+#🌾 Farmer Friend
 
 AI-powered Android application for farmers that combines crop disease detection, weather information, treatment recommendations, market information, labour assistance, and a farmer-friendly profile system in one mobile platform.
 
