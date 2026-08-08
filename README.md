@@ -50,21 +50,10 @@ through a simple and farmer-friendly mobile application.
 
 # 🎥 Project Demo
 
-<p align="center">
 
-<a href="https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID">
 
-<img src="https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg"
-     width="800"
-     alt="Farmer Friend Demo"/>
 
-</a>
 
-</p>
-
-<p align="center">
-  ▶️ <b>Click the image above to watch the Farmer Friend demo</b>
-</p>
 
 ### 🎬 Demo Flow
 
@@ -460,74 +449,7 @@ Farmer-Friend/
 
 ---
 
-# 📸 Application Screenshots
 
-Create a `screenshots` folder in the root of the repository:
-
-```text
-screenshots/
-│
-├── login.png
-├── home.png
-├── crop-detection.png
-├── disease-result.png
-├── remedies.png
-├── market.png
-├── labour.png
-└── profile.png
-```
-
-Then add them to this section.
-
-### 🔐 Login
-
-<p align="center">
-<img src="screenshots/login.png" width="250"/>
-</p>
-
-### 🏠 Home Dashboard
-
-<p align="center">
-<img src="screenshots/home.png" width="250"/>
-</p>
-
-### 🌱 Crop Detection
-
-<p align="center">
-<img src="screenshots/crop-detection.png" width="250"/>
-</p>
-
-### 🤖 Disease Result
-
-<p align="center">
-<img src="screenshots/disease-result.png" width="250"/>
-</p>
-
-### 💊 Remedies
-
-<p align="center">
-<img src="screenshots/remedies.png" width="250"/>
-</p>
-
-### 📈 Market
-
-<p align="center">
-<img src="screenshots/market.png" width="250"/>
-</p>
-
-### 👷 Labour
-
-<p align="center">
-<img src="screenshots/labour.png" width="250"/>
-</p>
-
-### 👤 Profile
-
-<p align="center">
-<img src="screenshots/profile.png" width="250"/>
-</p>
-
----
 
 # 🎯 Project Objectives
 
